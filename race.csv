@@ -1,5 +1,5 @@
-﻿state,parent,white,black,hispanic,asian
-Illinois,Origin,15,25,6,2
-California,Origin,89,165,76,43
-New York,Origin,55,88,34,7
-Florida,Origin,18,19,12,2
+﻿state,white,black,hispanic,asian
+Illinois,15,25,6,2
+California,89,165,76,43
+New York,55,88,34,7
+Florida,18,19,12,2
