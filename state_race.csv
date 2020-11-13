@@ -1,6 +1,6 @@
-﻿state,Asian,Black,Hispanic,Native American,Other,White,Total
-AK,0,1,0,5,0,2,8
-AL,0,11,1,0,0,16,28
+﻿state,Asian,Black,Hispanic,Native American,Other,White,Total, NA, full_state
+AK,0,1,0,5,0,2,8,5,Alaska
+AL,0,11,1,0,0,16,28,0,Alabama
 AR,0,7,0,0,0,5,12
 AZ,0,4,6,0,1,14,25
 CA,6,62,63,2,1,83,217
