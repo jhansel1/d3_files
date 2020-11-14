@@ -1,0 +1,52 @@
+﻿state,Arson,Assault,Child_ Abuse,Drug_Related,Murder,Other_Nonviolent,Other_Violent,Robbery,Sexual_Assault,Total,full_state
+AK,0,1,0,0,5,1,0,0,1,8,Alaska
+AL,0,0,5,1,14,1,1,1,4,27,Alabama
+AR,0,1,2,2,6,0,0,0,1,12,Arkansas
+AZ,0,3,1,2,13,1,1,0,1,22,Arizona
+CA,0,9,40,7,85,18,15,17,11,202,California
+CO,0,1,1,0,5,0,1,0,3,11,Colorado
+CT,1,1,2,0,16,3,0,0,4,27,Connecticut
+DC,0,0,0,0,14,0,1,0,4,19,District of Columbia
+DE,0,0,1,1,1,0,0,0,0,3,Delaware
+FL,1,3,7,4,29,3,10,5,11,73,Florida
+GA,0,1,1,1,19,2,1,4,10,39,Georgia
+HI,0,0,1,0,0,0,2,0,1,4,Hawaii
+IA,0,0,3,1,4,1,3,0,4,16,Iowa
+ID,0,0,1,0,3,1,1,0,0,6,Idaho
+IL,0,1,7,89,168,14,9,8,27,323,Illinois
+IN,1,1,7,0,14,3,4,2,8,40,Indiana
+KS,0,2,1,0,3,0,1,2,3,12,Kansas
+KY,0,0,7,0,8,0,5,0,2,22,Kentucky
+LA,0,1,3,3,33,0,2,4,13,59,Louisiana
+MA,2,7,8,4,31,5,5,0,10,72,Massachusetts
+MD,0,1,2,0,29,1,3,1,2,39,Maryland
+ME,0,1,1,0,0,0,1,0,1,4,Maine
+MI,3,5,19,4,41,10,14,4,17,117,Michigan
+MN,0,1,3,2,2,1,5,0,3,17,Minnesota
+MO,1,1,6,0,28,0,1,3,9,49,Missouri
+MS,0,1,0,0,13,1,0,2,2,19,Mississippi
+MT,0,1,5,0,4,0,0,0,4,14,Montana
+NC,0,9,12,0,25,1,5,5,8,65,North Carolina
+ND,0,1,0,0,0,1,0,0,2,4,North Dakota
+NE,0,1,0,0,4,0,4,0,0,9,Nebraska
+NH,0,0,0,0,0,0,0,0,2,2,New Hampshire
+NJ,0,1,6,0,17,3,4,2,8,41,New Jersey
+NM,0,0,2,0,6,1,0,0,1,10,New Mexico
+NV,0,0,0,5,8,1,1,1,0,16,Nevada
+NY,2,11,19,12,128,19,21,28,37,277,New York
+OH,1,2,14,4,32,4,6,9,12,84,Ohio
+OK,0,1,8,1,18,1,1,2,6,38,Oklahoma
+OR,0,1,5,5,7,0,3,0,0,21,Oregon
+PA,2,0,4,2,63,2,5,3,9,90,Pennsylvania
+RI,0,0,1,1,3,0,0,1,0,6,Rhode Island
+SC,0,0,1,0,4,1,0,0,2,8,South Carolina
+SD,0,0,3,0,0,0,2,0,0,5,South Dakota
+TN,0,3,5,0,11,0,1,0,3,23,Tennessee
+TX,1,7,44,179,52,15,6,22,58,384,Texas
+UT,1,0,4,0,6,1,1,1,4,18,Utah
+VA,0,3,5,0,18,1,2,4,20,53,Virginia
+VT,0,1,0,0,1,0,0,0,1,3,Vermont
+WA,1,2,18,2,6,1,0,8,12,50,Washington
+WI,2,1,10,0,13,6,5,5,15,57,Wisconsin
+WV,0,0,0,0,5,0,0,0,6,11,West Virginia
+WY,0,0,1,0,2,0,0,0,1,4,Wyoming
